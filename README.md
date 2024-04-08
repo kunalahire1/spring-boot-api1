@@ -1,1 +1,1 @@
-All the api's corret and work on postman
+All the api's are correct and work on postman
